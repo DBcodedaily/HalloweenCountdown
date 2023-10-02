@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(240, 152, 29);
+    color: black;
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: large;
+    text-align: center;
+}
